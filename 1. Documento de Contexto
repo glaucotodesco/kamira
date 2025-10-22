@@ -1,0 +1,57 @@
+# ☕ Documento de Contexto — Redesign do Site Kamira
+
+## 1. Visão Geral
+A Kamira é uma marca italiana de cafeteiras artesanais reconhecida pelo design tradicional e preparo espresso em fogão.  
+O projeto visa **reformular o site institucional** para reforçar a **imagem premium da marca** e **iniciar a venda de cafés moídos exclusivos**, com **versões em português e italiano**.
+
+---
+
+## 2. Problema Central
+O site atual apresenta:
+- Navegação confusa e pouco responsiva.
+- Identidade visual desatualizada.
+- Falta de conexão emocional com o público.
+- Ausência de e-commerce e de storytelling de produto.
+
+---
+
+## 3. Objetivos do Projeto
+- Reposicionar a Kamira como **marca premium italiana de cafés e cafeteiras**.  
+- Criar uma **experiência digital imersiva** que traduza tradição, autenticidade e sabor.  
+- Implementar **loja online** com 4 tipos de cafés moídos selecionados.  
+- Garantir **versão bilíngue (PT/IT)** com fácil alternância de idioma.  
+
+---
+
+## 4. Stakeholders
+| Nome / Papel | Interesse | Responsabilidades |
+|---------------|------------|------------------|
+| **Equipe Kamira (Itália)** | Consolidar identidade da marca e aumentar vendas | Aprovar conteúdo e branding |
+| **Distribuidor Brasil** | Comercializar linha Kamira e cafés moídos | Gestão de e-commerce e tradução |
+| **Equipe UX/UI** | Criar experiência centrada no usuário | Pesquisa, wireframes, protótipo |
+| **Desenvolvimento Web** | Implementar site responsivo e e-commerce | Front-end, integração de pagamentos |
+
+---
+
+## 5. Público-Alvo
+- **Amantes de café artesanal** que valorizam o ritual e a estética do preparo.  
+- **Consumidores premium** em busca de produtos italianos autênticos.  
+- **Revendedores e cafeterias** que buscam diferenciação.  
+
+---
+
+## 6. Requisitos Iniciais
+- Site responsivo e rápido.  
+- Navegação intuitiva e design minimalista.  
+- E-commerce integrado (carrinho, checkout e estoque).  
+- Conteúdo bilíngue (PT/IT).  
+- SEO otimizado para buscas por “cafeteira italiana”, “espresso artesanal”, “Kamira”.  
+
+---
+
+## 7. Riscos e Oportunidades
+| Tipo | Descrição | Ação sugerida |
+|------|------------|---------------|
+| Risco | Complexidade na gestão bilíngue | Usar CMS multilíngue (ex: WordPress + WPML ou Shopify Markets) |
+| Oportunidade | Público fiel ao café italiano | Criar storytelling sobre origem, tradição e sustentabilidade |
+| Oportunidade | Produtos complementares (cafés moídos) | Ampliar ticket médio e engajamento sensorial |
