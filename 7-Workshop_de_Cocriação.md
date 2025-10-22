@@ -14,3 +14,12 @@ UX Designer, PO Kamira, Tradutor PT-IT, Desenvolvedor Front-End
 - **Should Have:** Blog de receitas, seção “Conheça nossos cafés”.  
 - **Could Have:** Simulador de preparo interativo.  
 - **Won’t Have:** Área de login avançada nesta fase inicial.  
+
+
+
+| Letra | Significado              | Tradução             | Prioridade                            |
+| ----- | ------------------------ | -------------------- | ------------------------------------- |
+| **M** | **Must Have**            | Deve ter             | Essencial — sem isso, o projeto falha |
+| **S** | **Should Have**          | Deveria ter          | Importante, mas pode esperar          |
+| **C** | **Could Have**           | Poderia ter          | Desejável, se houver tempo e recursos |
+| **W** | **Won’t Have (for now)** | Não terá (por agora) | Fora de escopo nesta versão           |
