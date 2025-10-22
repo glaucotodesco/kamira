@@ -7,3 +7,14 @@
 | H3 | Se criarmos uma página específica para revendedores, reduziremos o número de e-mails de suporte sobre revenda em 40%. | Eficiência operacional. | Nº de e-mails de revenda. | Média |
 | H4 | Se otimizarmos o carregamento no mobile, diminuiremos a taxa de rejeição em 30%. | Velocidade e retenção. | Bounce rate mobile. | Alta |
 | H5 | Se o seletor de idioma for fixo e textual, aumentaremos o uso correto da versão em português/italiano. | Acessibilidade e usabilidade. | Sessões com idioma correto. | Baixa |
+
+
+## 🧭 3. Priorização (Matriz Impacto × Esforço)
+
+| Hipótese | Impacto | Esforço | Quadrante |
+|-----------|----------|----------|------------|
+| H1 | Alto | Médio | **Rápido ganho UX** |
+| H2 | Alto | Baixo | **Alta prioridade** |
+| H3 | Médio | Médio | **Oportunidade de médio prazo** |
+| H4 | Alto | Alto | **Projeto técnico essencial** |
+| H5 | Baixo | Baixo | **Melhoria incremental** |
